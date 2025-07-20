@@ -8,23 +8,31 @@ Driven by a passion for intelligent systems, I design and implement Machine Lear
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&label=)
+![Pandas](https://img.shields.io/badge/-?style=for-the-badge&logo=pandas&logoColor=white&label=)
+![NumPy](https://img.shields.io/badge/-?style=for-the-badge&logo=numpy&logoColor=white&label=)
+![scikit-learn](https://img.shields.io/badge/-?style=for-the-badge&logo=scikit-learn&logoColor=white&label=)
+![Matplotlib](https://img.shields.io/badge/-?style=for-the-badge&logo=matplotlib&logoColor=white&label=)
+![Seaborn](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&label=)
+![Oracle](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white&label=)
+![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&label=)
+![Power BI](https://img.shields.io/badge/-?style=for-the-badge&logo=powerbi&logoColor=black&label=)
+![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&label=)
+![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=)
+![Jupyter](https://img.shields.io/badge/-?style=for-the-badge&logo=jupyter&logoColor=white&label=)
+![Excel](https://img.shields.io/badge/-?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=)
+![Anaconda](https://img.shields.io/badge/-?style=for-the-badge&logo=anaconda&logoColor=white&label=)
+![Google Colab](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecolab&logoColor=white&label=)
+![HTML](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&label=)
+![CSS](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&label=)
+![AWS](https://img.shields.io/badge/-?style=for-the-badge&logo=amazon-aws&logoColor=white&label=)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Nidhishree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhishree&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishree&layout=compact&theme=tokyonight)
+
+<img src="https://private-user-images.githubusercontent.com/145918067/272292010-d41dfa3a-551e-4b93-84e3-773a598f2856.gif" width="100%" alt="header image"/>
