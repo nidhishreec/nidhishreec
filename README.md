@@ -10,24 +10,28 @@ Driven by a passion for intelligent systems, I design and implement Machine Lear
 
 ### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&label=)
-![Pandas](https://img.shields.io/badge/-?style=for-the-badge&logo=pandas&logoColor=white&label=)
-![NumPy](https://img.shields.io/badge/-?style=for-the-badge&logo=numpy&logoColor=white&label=)
-![scikit-learn](https://img.shields.io/badge/-?style=for-the-badge&logo=scikit-learn&logoColor=white&label=)
-![Matplotlib](https://img.shields.io/badge/-?style=for-the-badge&logo=matplotlib&logoColor=white&label=)
-![Seaborn](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&label=)
-![Oracle](https://img.shields.io/badge/-?style=for-the-badge&logo=oracle&logoColor=white&label=)
-![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&label=)
-![Power BI](https://img.shields.io/badge/-?style=for-the-badge&logo=powerbi&logoColor=black&label=)
-![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&label=)
-![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=)
-![Jupyter](https://img.shields.io/badge/-?style=for-the-badge&logo=jupyter&logoColor=white&label=)
-![Excel](https://img.shields.io/badge/-?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=)
-![Anaconda](https://img.shields.io/badge/-?style=for-the-badge&logo=anaconda&logoColor=white&label=)
-![Google Colab](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecolab&logoColor=white&label=)
-![HTML](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&label=)
-![CSS](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&label=)
-![AWS](https://img.shields.io/badge/-?style=for-the-badge&logo=amazon-aws&logoColor=white&label=)
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-pandas-big-data-soft-fill-soft-fill-juicy-fish.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/fluency/48/000000/numpy.png" alt="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn"/>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-jupyter-data-science-flaticons-flat-flat-icons.png" alt="Jupyter"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/anaconda--v2.png" alt="Anaconda"/>
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+</p>
 
 ---
 
